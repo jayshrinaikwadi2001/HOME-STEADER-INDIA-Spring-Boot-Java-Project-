@@ -1,4 +1,4 @@
-HOME STEADER INDIA 🌱
+# HOME STEADER INDIA 🌱
 
 Spring Boot, HTML, CSS, JavaScript, Bootstrap, Hibernate, API
 
@@ -7,12 +7,12 @@ Spring Boot, HTML, CSS, JavaScript, Bootstrap, Hibernate, API
 ![Agro_Home](https://github.com/user-attachments/assets/effbe839-53bd-4a3c-8d7a-35f86ca6f011)
 
 
-Table of Contents:-
-1.What is HOMESTEADERINDIA
-2.Modules
-3.Features
+## Table of Contents:-
+__1.What is HOMESTEADERINDIA__
+__2.Modules__
+__3.Features__
 
-What is HOMESTEADERINDIA?
+## What is HOMESTEADERINDIA?
 
 1.It is a web-based open discussion portal providing information and solutions about crops, fertilizers, vegetables, Seeds, Fruits, and climate to small farmers and agricultural students.
 
@@ -24,37 +24,39 @@ What is HOMESTEADERINDIA?
 
 5.Homesteader also features training, training can be requested by students and the general public.
 
-Modules:-
+## Modules:-
 
-*Admin Module-
-1.Login
-2.Register sub admin
-3.View registered Agro Agencies.
-4.Add New information about crops, herbs, fertilizers, vegetables, Seeds, and Fruits.
-5.Update current market and best prices of crops and herbs.
-6.Add climate changes.
-7.Add soil analysis for various regions and suggestions based on the soil condition and climate.
-8.Check Feedback from farmers.
-9.Check reports – daily, weekly, monthly.
-10.Download the report in an excel sheet. Agro Agencies:-
-11.Login, Register.
-12.Check training requests from farmers and agricultural students. Farmer:-
-13.Login, and register.
-14.Quick inquiry related to crops, fertilizers, vegetables, Seeds, and Fruits.
-15.Search crops, fertilizers, vegetables, Seeds, and Fruits.
+## Admin Module-
+__1.Login__
+__2.Register sub admin__
+__3.View registered Agro Agencies.__
+__4.Add New information about crops, herbs, fertilizers, vegetables, Seeds, and Fruits.__
+__5.Update current market and best prices of crops and herbs.__
+__6.Add climate changes.__
+__7.Add soil analysis for various regions and suggestions based on the soil condition and climate.__
+__8.Check Feedback from farmers.__
+__9.Check reports – daily, weekly, monthly.__
+__10.Download the report in an excel sheet.
+Agro Agencies:-__
+__11.Login, Register.__
+__12.Check training requests from farmers and agricultural students.__
+__Farmer:-__
+__13.Login, and register.__
+__14.Quick inquiry related to crops, fertilizers, vegetables, Seeds, and Fruits.__
+__15.Search crops, fertilizers, vegetables, Seeds, and Fruits.__
 
 ![Agro_Admin-1](https://github.com/user-attachments/assets/b94337a8-6d3e-4377-88bb-cbb463141b64)
 
 ![Agro_Admin-2](https://github.com/user-attachments/assets/125b6733-1a45-41f3-acea-4dbad9ac83dc)
 
 
-*AgroAgency Module-
+## AgroAgency Module-
 
 ![Agro_AgroAgency-1](https://github.com/user-attachments/assets/bd2264aa-de75-40a0-b370-67b11bc73d5c)
 
 ![Agro_AgroAgency-2](https://github.com/user-attachments/assets/7d972336-9ce6-4ada-90eb-bb1c503f3163)
 
-*Farmer Module-
+## Farmer Module-
 
 ![Agro_Farmer-1](https://github.com/user-attachments/assets/eca846a3-3b8c-4a79-9d7b-15c7015a57b3)
 
@@ -64,7 +66,7 @@ Modules:-
 
 ![Agro_Farmer-4](https://github.com/user-attachments/assets/bedd6dc8-98d1-4d6a-b92e-e424897af5b2)
 
-Features:-
+## Features:-
 1.Live Prices of Products and Fertilizers
 2.Live Weather Service for Every City
 3.Quick Inquiry in 1 second
